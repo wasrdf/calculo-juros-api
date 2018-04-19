@@ -1,2 +1,2 @@
 # calculo-juros-api
-API Spring-boot do projeot calculo-juros.
+API Spring-boot do projeto calculo-juros.
